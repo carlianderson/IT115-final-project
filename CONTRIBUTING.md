@@ -23,23 +23,15 @@ https://github.com/carlianderson/IT115-final-project/projects/1
 
 ###  The design structure is described below.
 
-Also, the following pages are **NOT** to be added by any contributors:
-
-* index.html
-* error.html
+* test.html
+* branch1.html
 * README.md
-* CODE_OF_CONDUCT.md
+* demo.js
+* demostyle.css
 * LICENSE
 * CONTRIBUTING.md
 
-### At the top of the structure will be:
 
-* index.html
-* error.html
-* README.md
-* CODE_OF_CONDUCT.md
-* LICENSE
-* CONTRIBUTING.md
 
 ### Pull Request Process
 * Update the README.md with details of major changes made (for example, new files added or dependencies)
